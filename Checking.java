@@ -1,6 +1,12 @@
 package com.egarduno.Banking;
-
 import java.io.IOException;
+
+/*__________________________________
+
+	Emilio Garduno
+	08/14/2013
+	Banking Transactions
+__________________________________*/
 
 @SuppressWarnings("unused")
 public class Checking extends AcctTrans implements I_Trans{
