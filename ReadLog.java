@@ -5,6 +5,13 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/*__________________________________
+
+	Emilio Garduno
+	08/14/2013
+	Banking Transactions
+__________________________________*/
+
 public class ReadLog {
 	private String path;
 	
