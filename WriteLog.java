@@ -3,6 +3,13 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 
+/*__________________________________
+
+	Emilio Garduno
+	08/14/2013
+	Banking Transactions
+__________________________________*/
+
 public class WriteLog {
 	private String path;
 	private PrintWriter writer;//built in tool for writing a file
